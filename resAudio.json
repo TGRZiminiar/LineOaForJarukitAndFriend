@@ -1,0 +1,27 @@
+{
+    "destination": "_",
+    "events": [
+      {
+        "type": "message",
+        "message": {
+          "type": "audio",
+          "id": "_",
+          "duration": 2501,
+          "contentProvider": {
+            "type": "line"
+          }
+        },
+        "webhookEventId": "_",
+        "deliveryContext": {
+          "isRedelivery": false
+        },
+        "timestamp": 1720787429652,
+        "source": {
+          "type": "user",
+          "userId": "_"
+        },
+        "replyToken": "_",
+        "mode": "active"
+      }
+    ]
+  }
