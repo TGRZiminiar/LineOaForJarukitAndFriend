@@ -1,0 +1,25 @@
+{
+    "destination": "_",
+    "events": [
+      {
+        "type": "message",
+        "message": {
+          "type": "text",
+          "id": "_",
+          "quoteToken": "_",
+          "text": "\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35"
+        },
+        "webhookEventId": "_",
+        "deliveryContext": {
+          "isRedelivery": false
+        },
+        "timestamp": 1720783609738,
+        "source": {
+          "type": "user",
+          "userId": "_"
+        },
+        "replyToken": "_",
+        "mode": "active"
+      }
+    ]
+  }
